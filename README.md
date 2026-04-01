@@ -24,7 +24,7 @@
 <body onclick="mostrar()">
 
   <div id="msg">
-    ME DESCULPA. VOCÊ É O AMOR DA MINHA VIDA E A COISA MAIS IMPORTANTE DO MEU MUNDO. EU TE AMO.<br><br>
+     DESCULPA. VOCÊ É O AMOR DA MINHA VIDA E A COISA MAIS IMPORTANTE DO MEU MUNDO. EU TE AMO.<br><br>
     Ass: vida.
   </div>
 
